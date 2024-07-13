@@ -1,0 +1,48 @@
+Exercício 0.1: Crie um programa e declare nele 3 variáveis numéricas int, inicializando-as com algum valor e obtenha a soma dessas variáveis e a média delas, imprimindo esses resultados na tela
+
+Exercício 0.2: Crie um programa que calcule a área de um retângulo, declare e inicialize
+duas variáveis para testá-lo, imprimindo esses resultados na tela.
+
+Exercício 0.3: Crie um programa que elabore o orçamento de uma construtora para o cálculo do valor total de construção de uma piscina. O valor total será dado pela cubagem da piscina (metros cúbicos) multiplicada por R$100,00, que é o preço do metro cúbico construído de piscina.
+
+Exercício 0.4: Desenvolva um algoritmo em Java que leia um número inteiro e imprima o seu antecessor e seu sucessor.
+
+Exercício 0.5: Informar um valor e imprimir o valor com reajuste de 15%.
+
+Exercício 0.6: Faça um programa que solicite o nome e preço de custo de um produto
+qualquer, após, processe um aumento de 85% e informe qual será o preço
+de venda.
+
+Exercício 0.7: Escreva um programa que, com base em uma temperatura em graus celsius, a converta e exiba em Kelvin (K), Réaumur (Re), Rankine (Ra) e Fahrenheit (F), seguindo as fórmulas:
+F = C * 1.8 + 32;
+K = C + 273.15;
+Re = C * 0.8;
+Ra = C * 1.8 + 32 + 459.67
+
+----------------------------------------------------------------------
+Apos finalizar fazer esses:
+
+Exercício 1: Verificar se um número é positivo, negativo ou zero
+Exercício 2: Imprimir os números pares de 1 a 10
+Exercício 3: Calcular o fatorial de um número
+Exercício 4: Verificar se um número é primo
+Exercício 5: Calcular o somatório dos números de 1 a 100
+Exercício 6: Verificar se um número é par ou ímpar utilizando switch-case
+Exercício 7: Imprimir os números de 1 a 10 utilizando while
+Exercício 8: Calcular a média de 5 números, usando for para solicitar cada número
+Exercício 9: Contar de 10 a 1 utilizando for
+Exercício 10: Verificar se um ano é bissexto ou não
+
+-------------------------------------------------------------------------
+Exercício 11: Imprimir os números de 0 a 20, pulando de 2 em 2
+Exercício 12: Calcular o somatório dos números pares de 1 a 50
+Exercício 13: Calcular a média dos números pares de 1 a 100
+Exercício 14: Imprimir a tabuada de um número digitado pelo usuário
+Exercício 15: Verificar se um caractere é uma vogal ou uma consoante
+Exercício 16: Calcular a média dos números ímpares de 1 a 100
+Exercício 17: Verificar se um ano é um ano de copa do mundo (considerando a periodicidade de 4 anos, e a primeira copa ocorreu em 1930)
+Exercício 18: Simular o lançamento de um dado e imprimir o resultado
+Exercício 19: Calcular o IMC (Índice de Massa Corporal) de uma pessoa
+Exercício 20: Simular uma calculadora básica com as operações de adição, subtração, multiplicação e divisão (usando switch)
+
+EXTRA: Simular um jogo de adivinhação onde o usuário tenta adivinhar um número gerado aleatoriamente
